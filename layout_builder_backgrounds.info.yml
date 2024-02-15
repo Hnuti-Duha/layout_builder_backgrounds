@@ -8,3 +8,4 @@ dependencies:
   - drupal:media
   - drupal:media_library
   - media_library_form_element:media_library_form_element (>=2.0)
+  - drupal:layout_builder
