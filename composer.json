@@ -1,7 +1,7 @@
 {
   "name": "hnuti-duha/layout_builder_backgrounds",
   "description": "Adds a background field to Layout Builder layouts.",
-  "type": "drupal-module",
+  "type": "drupal-custom-module",
   "authors": [{
     "name": "Chris Komlenic (komlenic)",
     "homepage": "https://www.drupal.org/u/komlenic",
